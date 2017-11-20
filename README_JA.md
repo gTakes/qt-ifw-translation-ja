@@ -5,9 +5,13 @@
 **※Windows用の手順のみ記載しています。**
 
 ## このリポジトリの構成
-+ translation
-    + ja.ts &emsp; ... 翻訳済ファイル
-    + version.txt &ensp; ... 翻訳ファイルの対応バージョン
++ translations
+    + qt5 &emsp; ... Qt5用翻訳済ファイルのディレクトリ
+        + ....ts &emsp; ... 翻訳済ファイル
+        + version.txt &ensp; ... 翻訳ファイルの対応バージョン
+    + qtifw &emsp; ... Qt Installer Framework用翻訳済ファイルのディレクトリ
+        + ja.ts &emsp; ... 翻訳済ファイル
+        + version.txt &ensp; ... 翻訳ファイルの対応バージョン
 + LICENCE &emsp; ... License (GPL3-例外規定)
 + qtvars.bat &emsp; ... ビルド用環境設定バッチファイル
 + qtvars.lnk &emsp; ... cmd.exe で qtvars.batを起動する Winodws ショートカットファイル

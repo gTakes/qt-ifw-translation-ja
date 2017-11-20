@@ -6,9 +6,13 @@ Even if I get the source file and build it, I decided to translate the untransla
 *Here is the steps for Windows only.*
 
 ## Structure of this repository
-+ translation
-    + ja.ts &emsp; ... Translated file
-    + version.txt &ensp; ... Corresponding version of the translated file
++ translations
+    + qt5 &emsp; ... Directory of translated files for Qt5
+        + ....ts &emsp; ... Translated file
+        + version.txt &ensp; ... Corresponding version of the translated file
+    + qtifw &emsp; ... Directory of a translated file for Qt Installer Framework
+        + ja.ts &emsp; ... Translated file
+        + version.txt &ensp; ... Corresponding version of the translated file
 + LICENCE &emsp; ... License (GPL3-EXCEPT)
 + qtvars.bat &emsp; ... Building environment setting batch file
 + qtvars.lnk &emsp; ... Launch qtvars.bat with cmd.exe Winodws shortcut file
