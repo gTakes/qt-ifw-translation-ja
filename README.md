@@ -16,7 +16,7 @@ Even if I get the source file and build it, I decided to translate the untransla
 English version of this file
 + README_JA.md &emsp; ... This file
 
-## Build Qt for Qt Installer Framework
+## Build "Qt" for Qt Installer Framework
 The Qt installer framework is usually built using Qt's static  library. If you already have a Qt static library you can skip this step. You can also refer to the Qt manual.
 > [Qt Installer Framework's Manual - http://doc.qt.io/qtinstallerframework/](http://doc.qt.io/qtinstallerframework/)
 
@@ -66,7 +66,7 @@ In this case, options are specified to make them a minimal build and static libr
     Now that ready to build Qt Installer Framework.
 
 
-## Qt Installer Framework のビルド
+## Build "Qt Installer Framework"
 
 The explanation assumes that work is done in the directory "`C:\Develop\QtIFW`".
 
