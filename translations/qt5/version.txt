@@ -1,0 +1,1 @@
+Japanese translations for Qt5.10.0

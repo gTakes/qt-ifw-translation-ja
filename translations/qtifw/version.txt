@@ -1,0 +1,1 @@
+for Qt Installer Framework 3.0.1
