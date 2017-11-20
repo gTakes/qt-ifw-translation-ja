@@ -1,5 +1,5 @@
 # Qt Installer Framework's Unoffical Japanese Translation File
-言語:&emsp;*English*&ensp;|&ensp;[日本語](README_JA.md) 
+Language:&emsp;*English*&ensp;|&ensp;[日本語](README_JA.md) 
 ## Background
 I created one installer using Qt Installer Framework 3.0.1 in Japanese environment, and I noticed that translation was not applied to some strings.  
 Even if I get the source file and build it, I decided to translate the untranslated phrase and apply it. I will describe the procedure here.  
